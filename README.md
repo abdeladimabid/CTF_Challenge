@@ -9,7 +9,7 @@ This repository contains a front-end **Capture the Flag (CTF)** challenge create
 
 Some fragments of the admin credentials are hidden in the code of the site. You must analyze `index.html`, inspect the page, gather fragments, assemble the credentials, and use them to access the admin panel.
 
-Live challenge: [https://abdeladimabid.github.io/151/](https://abdeladimabid.github.io/151/)
+Live challenge: [https://abdeladimabid.github.io/151/](https://abdeladimabid.github.io/CTF_Challenge)
 
 ---
 
